@@ -1,0 +1,6 @@
+{
+  "name": "Decisions Maker",
+  "description": "An AI-powered decision intelligence platform that helps you weigh choices using Pros & Cons, Comparison Tables, and SWOT Analyses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
